@@ -38,7 +38,7 @@ Review this PR with me, I'm a beginner: https://github.com/owner/repo/pull/42
 
 ## Installation
 
-### Claude.ai (Skills Upload — Recommended)
+### Claude.ai (Skills Upload)
 
 The simplest way. Works with Free, Pro, Max, Team, and Enterprise plans.
 
@@ -86,7 +86,7 @@ mkdir -p .cursor/skills
 cp -r pr-review-coach .cursor/skills/pr-review-coach
 ```
 
-### VS Code — GitHub Copilot (with Claude model)
+### VS Code — GitHub Copilot
 
 ```bash
 mkdir -p .github/copilot
